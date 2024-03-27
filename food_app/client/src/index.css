@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Rajdhani:wght@300;400;500;600;700&display=swap');
+:root {
+  font-family: 'rajdhani';
+  line-height: 1.5;
+  font-weight: 400;
+
+  
+}
+body{
+  font-family: 'rajdhani';
+  font-weight: bold;
+  background-color: bisque;
+  
+  
+}
+/*  ----------------navigation------------------*/
+.nav-link{
+  color: black !important;
+
+}
+.navbar-brand{
+  color: black !important;
+}
+
+
+/*--------------------------------------pizza name---------------------*/
+h1{
+  font-size: 20px !important;
+}
+/*---------------------------------all -pizza-------------------*/
+
+/*-----------------------------varient and price-----------------------*/
+.flex-con{
+  display: flex;
+
+}
+
+.btn{
+  background-color: red;
+  color: white;
+}
+.flex-container{
+  display: flex;
+}
+select{
+  box-shadow: none;
+  border-color: black;
+}
